@@ -1,6 +1,8 @@
+# felhasználói bevitelt tartalmazó feladatok
+
 # intput függvény
 # paraméter: mit kell kiírni
-# visszatérési érték: felhasználó által beírt érték
+# visszatérési érték: felhasználó által begépelt érték
 name = input("Mi a neved?")
 print(name)
 # Kiírás: Helló megadott név!
